@@ -1,0 +1,4 @@
+solution-reference/
+
+__pycache__/
+.DS_Store
