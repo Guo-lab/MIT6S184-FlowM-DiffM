@@ -1,5 +1,8 @@
 solution-reference/
 data/
+runs/
 
 __pycache__/
 .DS_Store
+
+progress_summary.md
